@@ -7,7 +7,7 @@
 - The circuit is analyzed for 15 worst-case corners and 300 runs of Monte Carlo analysis.
 
 ### Software Used: Cadence Virtuoso
-### Time Frame: Oct 2018
+### Time Frame: Nov 2018
 ### Course : Analog Electronics Design ( EE610 )
 
 
